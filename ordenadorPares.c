@@ -70,9 +70,9 @@ int main(void) {
 			1, 7, 6, 7, 9, 5, 9, 9, 5, 2, 6, 1, 8, 5, 1, 9, 0, 7, 0, 8, 7, 1, 1,
 			7, 4, 5, 5, 1, 7, 8, 6, 0, 7, 3, 7, 7, 0 };
 	//size of array:
-	//array[1000] => arrs = 999
-	//array[500] => arrs = 499
-	//array[5] => arrs = 4
+	//array[1000] => arrs=999
+	//array[500] => arrs=499
+	//array[5] => arrs=4
 	arrs = 999;
 
 	a = 1;
