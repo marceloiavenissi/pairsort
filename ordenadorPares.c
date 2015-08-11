@@ -76,7 +76,7 @@ int main(void) {
 	arrs = 999;
 
 	a = 1;
-	i = 0;
+	i = 1;
 	while (a) {
 		a = 0;
 		i = (i) ? 0 : 1;
